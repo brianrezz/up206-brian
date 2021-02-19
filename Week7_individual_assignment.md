@@ -1,1 +1,6 @@
-### Week 7 Reading Assignment
+## Reacting to "Global trends toward urban street-network sprawl"
+Once again, I find myself reading and fascinated by streets. Today, I read "Global trends toward urban street-network sprawl" by Christopher Barrington-Leigh. The impact of streets in not only physically, but also socially building communities. Technically, the more sprawled out street networks, the more disconnected people are. Take two examples: a suburb with 100 houses with at least one acre between each house and an apartment building with 100 units. The sprawled-network results in more distance physical and social relationships between people. In the case of an apartment building, you see them and hear them almost every day. You have a greater probababiity to build community among people. In the case of a suburb, you may never know who lives next to you. You foster communities of individuals who are truly individuals. No community. What should the future of street networks be? It should be denser and more connected. It will not only lead to more environmentally friendly communities, but also more connected and beautiful communities. 
+
+Quesions:
+What would be the impacts of making streets into walking plazas?
+How can we take what we've learned about street networks and use it to address socioeconomic inequities in low income BIPOC communities?
